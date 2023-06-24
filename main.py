@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 import os
 
-# Array of URLs for each page
+# Array für alle URLs der einzelnen Seiten
 urls = [
     'https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/German_frequency_list-1-5000',
     'https://en.wiktionary.org/wiki/User:Matthias_Buchmeier/German_frequency_list-5001-10000',
