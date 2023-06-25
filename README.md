@@ -15,13 +15,13 @@ pip install requests bs4
 
 ## Usage
 
-1. Clone the repository or download the script file `frequency_dictionary_scraper.py`.
+1. Clone the repository or download the script file `main.py`.
 
 2. Open the terminal and navigate to the directory where the script is located.
 
 3. Run the following command to execute the script:
 
-python frequency_dictionary_scraper.py
+python main.py
 
 The script will start scraping the frequency dictionary from the specified URLs and save the data to a file named `frequency_dictionary.txt`.
 
